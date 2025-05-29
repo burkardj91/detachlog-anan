@@ -1,4 +1,0 @@
-streamlit
-PyYAML
-streamlit-authenticator>=0.2.3
-bcrypt
